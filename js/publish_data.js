@@ -2,6 +2,17 @@ const publish_info = [
   {
     category: '総務系',
     clubs: [
+      { clubName: '学生会',
+        id: 'gakuseikai',
+        isMovie: false,
+        movieUrl: '',
+        links: [
+          {
+            label: 'X(旧Twitter)',
+            url: 'https://x.com/suwa_gakuseikai?s=20'
+          },
+        ]
+      }
       
     ]
   },
@@ -14,7 +25,7 @@ const publish_info = [
         movieUrl: '',
         links: [
           {
-            label: 'Twitter',
+            label: 'X(旧Twitter)',
             url: 'https://x.com/suwarikaclimb'
           },
         ]
@@ -25,11 +36,19 @@ const publish_info = [
         movieUrl: '',
         links: [
           {
-            label: 'Twitter',
+            label: 'X(旧Twitter)',
             url: 'https://twitter.com/suwarikasoftten'
           },
         ]
       },
+      { clubName: 'サバイバルゲーム部',
+        id: 'survival',
+        isMovie: false,
+        movieUrl: '',
+        links: [
+        ]
+      },
+      
     ]
   },
   {
