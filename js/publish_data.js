@@ -93,6 +93,13 @@ const publish_info = [
         links: [
         ]
       },
+      { clubName: '軽音部',
+        id: 'keion',
+        isMovie: false,
+        movieUrl: '',
+        links: [
+        ]
+      },
     ]
   },
   {
