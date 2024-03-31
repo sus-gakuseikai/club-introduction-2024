@@ -12,8 +12,26 @@ const publish_info = [
             url: 'https://x.com/suwa_gakuseikai?s=20'
           },
         ]
-      }
-      
+      },
+      { clubName: '新風祭実行委員会',
+        id: 'shinpusai',
+        isMovie: false,
+        movieUrl: '',
+        links: [
+          {
+            label: '新風祭実行委員会ホームページ',
+            url: 'https://recsuwa.net/'
+          },
+          {
+            label: '新風祭実行委員会Twitter',
+            url: 'https://twitter.com/shinpusai'
+          },
+          {
+            label: '新風祭実行委員会インスタグラム',
+            url: 'https://www.instagram.com/shinpusai?igsh=ZzRpcjJvbjBhYXhq'
+          },
+        ]
+      },
     ]
   },
   {
