@@ -66,6 +66,13 @@ const publish_info = [
         links: [
         ]
       },
+      { clubName: 'Workout部',
+        id: 'workout',
+        isMovie: false,
+        movieUrl: '',
+        links: [
+        ]
+      },
       
     ]
   },
