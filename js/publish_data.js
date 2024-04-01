@@ -73,6 +73,17 @@ const publish_info = [
         links: [
         ]
       },
+      { clubName: '弓道部',
+        id: 'kyudo',
+        isMovie: false,
+        movieUrl: '',
+        links: [
+          {
+            label: 'X(旧Twitter)',
+            url: 'https://x.com/suwarika_kyudo?s=21'
+          },
+        ]
+      },
       
     ]
   },
