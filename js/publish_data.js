@@ -49,7 +49,7 @@ const publish_info = [
         ]
       },
       { clubName: 'ソフトテニス部',
-        id: 'tennis',
+        id: 'stennis',
         isMovie: false,
         movieUrl: '',
         links: [
@@ -86,6 +86,13 @@ const publish_info = [
       },
       { clubName: '剣道部',
         id: 'kendo',
+        isMovie: false,
+        movieUrl: '',
+        links: [
+        ]
+      },
+      { clubName: '硬式テニス部',
+        id: 'ktennis',
         isMovie: false,
         movieUrl: '',
         links: [
