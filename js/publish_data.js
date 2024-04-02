@@ -84,6 +84,13 @@ const publish_info = [
           },
         ]
       },
+      { clubName: '剣道部',
+        id: 'kendo',
+        isMovie: false,
+        movieUrl: '',
+        links: [
+        ]
+      },
       
     ]
   },
@@ -109,6 +116,28 @@ const publish_info = [
         isMovie: false,
         movieUrl: '',
         links: [
+        ]
+      },
+      { clubName: 'TRPG部',
+        id: 'trpg',
+        isMovie: false,
+        movieUrl: '',
+        links: [
+        ]
+      },
+      { clubName: 'JAZZ研究会',
+        id: 'jazz',
+        isMovie: false,
+        movieUrl: '',
+        links: [
+          {
+            label: 'JAZZ研究会Instagram',
+            url: 'https://www.instagram.com/jazz_ken_tus/'
+          },
+          {
+            label: 'JAZZ研究会SOLA',
+            url: 'https://sola.sus.ac.jp/tag/index.php?tc=1&tag=JAZZ%E7%A0%94%E7%A9%B6%E4%BC%9A'
+          },
         ]
       },
     ]
