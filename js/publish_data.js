@@ -124,6 +124,18 @@ const publish_info = [
           },
         ]
       },
+      { clubName: '陸上競技部',
+        id: 'rikujyo',
+        isMovie: false,
+        movieUrl: '',
+        links: [
+          {
+            label: '陸上競技部Twitter',
+            url: 'https://twitter.com/SUS_TrackField'
+          },
+        ]
+      },
+
       
     ]
   },
@@ -223,6 +235,18 @@ const publish_info = [
         isMovie: false,
         movieUrl: '',
         links: [
+        ]
+      },
+      { clubName: 'e-Sports部',
+        id: 'esport',
+        isMovie: false,
+        movieUrl: '',
+        links: [
+          {
+            label: 'e-Sports部Twitter',
+            url: 'https://twitter.com/sus__eSports'
+            
+          },
         ]
       },
     ]
