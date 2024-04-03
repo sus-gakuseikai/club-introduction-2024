@@ -98,6 +98,32 @@ const publish_info = [
         links: [
         ]
       },
+      { clubName: '軟式野球部',
+        id: 'baseball',
+        isMovie: false,
+        movieUrl: '',
+        links: [
+          {
+            label: '軟式野球部Twitter',
+            url: 'https://twitter.com/suwarikaBBC'
+          },
+          {
+            label: '軟式野球部instagram',
+            url: ' https://www.instagram.com/sus_baseball/'
+          },
+        ]
+      },
+      { clubName: 'スポーツサイクル部',
+        id: 'cycling',
+        isMovie: false,
+        movieUrl: '',
+        links: [
+          {
+            label: 'X(旧Twitter)',
+            url: 'https://x.com/suwarikacycle'
+          },
+        ]
+      },
       
     ]
   },
@@ -144,6 +170,48 @@ const publish_info = [
           {
             label: 'JAZZ研究会SOLA',
             url: 'https://sola.sus.ac.jp/tag/index.php?tc=1&tag=JAZZ%E7%A0%94%E7%A9%B6%E4%BC%9A'
+          },
+        ]
+      },
+      { clubName: 'ってみた部',
+        id: 'temita',
+        isMovie: false,
+        movieUrl: '',
+        links: [
+          {
+            label: 'X(旧•Twitter)',
+            url: 'https://x.com/tTemitabu_tus?s=20'
+          },
+          {
+            label: 'Instagram',
+            url: 'https://www.instagram.com/ttemitabu?igsh=MTBkOW5vc3ljM29wYw%3D%3D&utm_source=qr'
+          },
+        ]
+      },
+      { clubName: 'AIサークル',
+        id: 'ai',
+        isMovie: false,
+        movieUrl: '',
+        links: [
+        ]
+      },
+      { clubName: 'スイーツ研究部',
+        id: 'sweets',
+        isMovie: false,
+        movieUrl: '',
+        links: [
+          {
+            label: 'スイーツ研究部X(旧Twitter)',
+            url: ' https://twitter.com/sus_sweets'
+          },
+        ]
+      },
+      { clubName: 'チノリカ',
+        id: 'chinorika',
+        isMovie: false,
+        movieUrl: '',
+        links: [
+          {
           },
         ]
       },
