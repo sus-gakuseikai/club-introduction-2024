@@ -212,7 +212,17 @@ const publish_info = [
         movieUrl: '',
         links: [
           {
+            label: 'Instagram',
+            url: 'https://www.instagram.com/chinorika22/?igsh=MWxpOG40d2RnY3R4bg%3D%3D'
+            
           },
+        ]
+      },
+      { clubName: 'SuwaGeeks',
+        id: 'geeks',
+        isMovie: false,
+        movieUrl: '',
+        links: [
         ]
       },
     ]
