@@ -135,6 +135,13 @@ const publish_info = [
           },
         ]
       },
+      { clubName: 'バドミントン部',
+        id: 'badminton',
+        isMovie: false,
+        movieUrl: '',
+        links: [
+        ]
+      },
 
       
     ]
@@ -191,7 +198,7 @@ const publish_info = [
         movieUrl: '',
         links: [
           {
-            label: 'X(旧•Twitter)',
+            label: 'X(旧Twitter)',
             url: 'https://x.com/tTemitabu_tus?s=20'
           },
           {
@@ -245,6 +252,18 @@ const publish_info = [
           {
             label: 'e-Sports部Twitter',
             url: 'https://twitter.com/sus__eSports'
+            
+          },
+        ]
+      },
+      { clubName: 'ボードゲーム部',
+        id: 'boardgame',
+        isMovie: false,
+        movieUrl: '',
+        links: [
+          {
+            label: 'X(旧Twitter)',
+            url: 'https://x.com/SUS_boardgame'
             
           },
         ]
