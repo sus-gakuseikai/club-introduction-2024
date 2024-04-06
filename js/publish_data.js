@@ -1,5 +1,20 @@
 const publish_info = [
   {
+    category: '告知',
+    clubs: [
+
+      { clubName: '部活動説明会開催',
+        id: 'kokuchi',
+        isMovie: false,
+        movieUrl: '',
+        links: [
+        ]
+      },
+    ]
+
+  },
+
+  {
     category: '総務系',
     clubs: [
       { clubName: '学生会',
